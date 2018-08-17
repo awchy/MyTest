@@ -1,7 +1,10 @@
-1212fdfd
-dsd
-fdfd
+3434
 
+<<<<<<< HEAD
 fdfdf01
 
 0101001
+=======
+
+fdfd
+>>>>>>> remotes/origin/test
