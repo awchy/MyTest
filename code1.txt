@@ -1,4 +1,4 @@
 test and bcd
 
 mycode   abc 
-mycode2
+mycode2  abc2
